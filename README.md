@@ -65,7 +65,7 @@
 
 <h1>Some Stats</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agus-coder&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=August-Arana&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1>Other Stats</h1>
                                                                                                           
