@@ -33,12 +33,6 @@ I'm a Chemist turned Software Engineer with a passion for solving complex analyt
 
 ---
 
-### 📊 GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=August-Arana)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=August-Arana&layout=compact&theme=dark&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ### 🐉 Character Sheet (Current Build)
 
@@ -50,4 +44,5 @@ I'm a Chemist turned Software Engineer with a passion for solving complex analyt
 - **INT = 18** *(Buffed by the Chemistry degree and System Architecture finals)*
 - **WIS = 14** *(Knowing when NOT to deploy to production on a Friday)*
 - **CHA = 12** *(Can successfully explain complex SQL queries to stakeholders)*
+
 
