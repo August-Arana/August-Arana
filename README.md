@@ -1,77 +1,52 @@
-<h1>Hello there! Welcome to my Github! :wave:</h1>
+# Hi there, I'm Agustín Arana 👋
 
-<p>Engineer under development...  Come back soon!</p>
+### Software Engineer | Backend & Data Analytics | Systems Analyst Candidate
 
-<p>My name is August, I´m a Software Engineer Student from Argentina.</p>
+I'm a Chemist turned Software Engineer with a passion for solving complex analytical problems. I specialize in bridging the gap between legacy systems and modern cloud architectures, and I love turning raw data into actionable insights.
 
-<p>:seedling: Currently I'm Building and learning Java.</p>
+- 🔭 **Currently working on:** Modernizing backend architectures, deploying cloud infrastructure (Docker/VPS), and building robust APIs.
+- 🌱 **Currently exploring:** Advanced distributed systems and high-concurrency architectures. 
+- 👨‍💻 **Tech stack focus:** Node.js, TypeScript, PostgreSQL, Perl, and React.
+- 🎲 **Off-screen:** When I'm not coding, you'll probably find me tweaking my Neovim config, designing and 3D printing modular dungeon boards in FreeCAD for my next D&D session.
+- 🧪 **Fun fact:** I hold a degree in Chemistry! I transitioned from mixing physical reagents to orchestrating data pipelines.
 
-<p></p>
+---
 
+### 🛠️ Technologies & Tools
 
-<h1>Technologies & Tools</h1>
+**Languages & Frameworks** ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
 
+**Data & Analytics** ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redash](https://img.shields.io/badge/Redash-000000?style=for-the-badge&logo=redash&logoColor=white)
 
+**Infrastructure & Architecture** ![Docker](https://img.shields.io/badge/docker-%230Jenkins.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 
+---
 
-<table width="420px" align="center">
-    <tbody>
-        <tr valign="top">
-            <td width="100px" align="center">
-            <span><strong>React</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-            </td>
-            <td width="100px" align="center">
-            <span><strong>Redux</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-            </td>
-            <td width="100px" align="center">
-            <span><strong>JavaScript</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-            </td>
-            <td width="100px" align="center">
-            <span><strong>GIT</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-            </td>
-            <td width="100px" align="center">
-            <span><strong>Node.js</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-            </td>
-        </tr>
-        <tr valign="bottom">
-            <td width="100px" align="center">
-            <span><strong>Express</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"">
-            </td>
-            <td width="100px" align="center">
-            <span><strong>SASS</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-            </td>
-            <td width="100px" align="center">
-            <span><strong>Jest</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-            </td>
-            <td width="100px" align="center">
-            <span><strong>PostgreSQL</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-            </td>
-            <td width="100px" align="center">
-            <span><strong>MongoDB</strong></span><br>
-            <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-            </td>
-        </tr>
-    </tbody>
-</table>
+### 📊 GitHub Stats
 
-<h1>Some Stats</h1>
+[![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=August-Arana&show_icons=true&theme=dark&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=August-Arana&layout=compact&theme=dark&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=August-Arana&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-<h1>Other Stats</h1>
-                                                                                                          
-<p>Str = 10</p>
-<p>Dex = 10</p>
-<p>Con = 13</p>
-<p>Int = -1</p>
-<p>Wis = 10</p>
-<p>Cha = 14</p>
+### 🐉 Character Sheet (Current Build)
+
+*Class: Artificer / Wizard Multi-class*
+
+- **STR = 10** *(Enough to carry the legacy codebase)*
+- **DEX = 14** *(High WPM on a split ergonomic keyboard)*
+- **CON = 12** *(Surviving on black coffee)*
+- **INT = 18** *(Buffed by the Chemistry degree and System Architecture finals)*
+- **WIS = 14** *(Knowing when NOT to deploy to production on a Friday)*
+- **CHA = 12** *(Can successfully explain complex SQL queries to stakeholders)*
