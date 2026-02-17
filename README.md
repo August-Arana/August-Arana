@@ -7,7 +7,7 @@ I'm a Chemist turned Software Engineer with a passion for solving complex analyt
 - 🔭 **Currently working on:** Modernizing backend architectures, deploying cloud infrastructure (Docker/VPS), and building robust APIs.
 - 🌱 **Currently exploring:** Advanced distributed systems and high-concurrency architectures. 
 - 👨‍💻 **Tech stack focus:** Node.js, TypeScript, PostgreSQL, Perl, and React.
-- 🎲 **Off-screen:** When I'm not coding, you'll probably find me tweaking my Neovim config, designing and 3D printing modular dungeon boards in FreeCAD for my next D&D session.
+- 🎲 **Off-screen:** When I'm not coding, you'll probably find me tweaking my Neovim config, designing and 3D printing minis for my next D&D session.
 - 🧪 **Fun fact:** I hold a degree in Chemistry! I transitioned from mixing physical reagents to orchestrating data pipelines.
 
 ---
@@ -44,6 +44,7 @@ I'm a Chemist turned Software Engineer with a passion for solving complex analyt
 - **INT = 18** *(Buffed by the Chemistry degree and System Architecture finals)*
 - **WIS = 14** *(Knowing when NOT to deploy to production on a Friday)*
 - **CHA = 12** *(Can successfully explain complex SQL queries to stakeholders)*
+
 
 
 
